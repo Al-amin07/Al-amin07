@@ -22,7 +22,7 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Al-amin07&theme=dark&card_width=700&card_height=205)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Al-amin07&theme=dark" alt="GitHub Streak" /></a>
 
 
 ![Al-amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-amin07&show_icons=true&theme=radical)
