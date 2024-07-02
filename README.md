@@ -1,7 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img alt="banner" src="https://i.ibb.co/09qPK1y/bg.png"/>
-<p>I'm Alamin Sujon, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h2>About Me</h2>
+<p>Hi there! 👋 I'm a dedicated web developer with a strong passion for crafting seamless and engaging web experiences. My journey in web development began with the fundamentals of HTML, CSS, and JavaScript, and I have since expanded my expertise to include advanced technologies and frameworks such as React, Next.js, Node.js, and Express.js. I thrive on turning complex problems into elegant, user-friendly solutions. <br/> 
+In the front-end realm, I specialize in creating responsive and intuitive interfaces using React and Next.js. I am skilled in building dynamic, single-page applications that provide excellent user experiences <br/>
+	On the back-end, I am proficient with Node.js and Express.js, allowing me to develop robust server-side applications. I have experience working with MongoDB and Firebase for database management, enabling me to handle data efficiently and securely.  <br/>
+	I am constantly learning and staying updated with the latest industry trends and technologies. My goal is to build applications that not only meet but exceed client and user expectations. Whether working independently or as part of a team, I bring a proactive and collaborative approach to every project. Let's connect and create something amazing together!
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
