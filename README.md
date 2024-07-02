@@ -23,6 +23,7 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+![Al-amin07](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
