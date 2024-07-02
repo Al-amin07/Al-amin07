@@ -7,6 +7,21 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 	On the back-end, I am proficient with Node.js and Express.js, allowing me to develop robust server-side applications. I have experience working with MongoDB and Firebase for database management, enabling me to handle data efficiently and securely.  <br/> <br/>
 	I am constantly learning and staying updated with the latest industry trends and technologies. My goal is to build applications that not only meet but exceed client and user expectations. Whether working independently or as part of a team, I bring a proactive and collaborative approach to every project. Let's connect and create something amazing together!
 </p>
+<h2>Familiar Techs</h2>
+<p>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
