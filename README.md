@@ -22,8 +22,9 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdause-al-mahmud&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Al-amin07](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Al-amin GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
