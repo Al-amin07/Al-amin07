@@ -24,7 +24,7 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdause-al-mahmud&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Al-amin GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Al-amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-amin07&show_icons=true&theme=radical)
 
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
