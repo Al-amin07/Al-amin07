@@ -42,7 +42,7 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=default)
 ![Al-amin GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-amin07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-amin07&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-amin07&layout=compact&theme=dark)
 
 
 
