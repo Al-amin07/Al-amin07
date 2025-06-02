@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img alt="banner" src="https://i.ibb.co/09qPK1y/bg.png"/>
+<img alt="banner" src="https://i.ibb.co/GQXPKmr9/1720236348340.jpg"/>
 
 # 👨‍💼 Md. Alamin Sujon
 
