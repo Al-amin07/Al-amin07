@@ -7,6 +7,13 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 	On the back-end, I am proficient with Node.js, Express.js, Prisma and Mongoose allowing me to develop robust server-side applications. I have experience working with MongoDB, PostgreSQL and Firebase for database management, enabling me to handle data efficiently and securely.
 	
 </p>
+
+## 📫 Contact Me
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
 <h2>Familiar Techs</h2>
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
