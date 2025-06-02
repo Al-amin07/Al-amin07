@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <p>Hi there! 👋 I'm a dedicated MERN Stack developer with a strong passion for crafting seamless and engaging web experiences. My journey in web development began with the fundamentals of HTML, CSS, and JavaScript, and I have since expanded my expertise to include advanced technologies and frameworks such as React, Next.js, Node.js, and Express.js. I thrive on turning complex problems into elegant, user-friendly solutions. <br/> <br/>
 In the front-end realm, I specialize in creating responsive and intuitive interfaces using React and Next.js. I am skilled in building dynamic, single-page applications that provide excellent user experiences <br/> <br/>
-	On the back-end, I am proficient with Node.js and Express.js, allowing me to develop robust server-side applications. I have experience working with MongoDB and Firebase for database management, enabling me to handle data efficiently and securely.
+	On the back-end, I am proficient with Node.js, Express.js, Prisma and Mongoose allowing me to develop robust server-side applications. I have experience working with MongoDB, PostgreSQL and Firebase for database management, enabling me to handle data efficiently and securely.
 	
 </p>
 <h2>Familiar Techs</h2>
