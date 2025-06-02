@@ -17,6 +17,7 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 
 <h2>Familiar Techs</h2>
 <p>
+	  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
