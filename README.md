@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img alt="banner" src="https://i.ibb.co/09qPK1y/bg.png"/>
+
+# 👨‍💼 [Md. Alamin Sujon]
+
 <h2>About Me</h2>
 <p>Hi there! 👋 I'm a dedicated MERN Stack developer with a strong passion for crafting seamless and engaging web experiences. My journey in web development began with the fundamentals of HTML, CSS, and JavaScript, and I have since expanded my expertise to include advanced technologies and frameworks such as React, Next.js, Node.js, and Express.js. I thrive on turning complex problems into elegant, user-friendly solutions. <br/> <br/>
 In the front-end realm, I specialize in creating responsive and intuitive interfaces using React and Next.js. I am skilled in building dynamic, single-page applications that provide excellent user experiences <br/> <br/>
