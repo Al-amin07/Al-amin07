@@ -12,10 +12,8 @@ In the front-end realm, I specialize in creating responsive and intuitive interf
 </p>
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:alsujon2001@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/alamin-sujon/)
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [alsujon2001@gmail.com](mailto:alsujon2001@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/alamin-sujon/](https://www.linkedin.com/in/alamin-sujon/)
 
 <h2>Familiar Techs</h2>
 <p>
