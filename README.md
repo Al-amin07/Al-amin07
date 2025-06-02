@@ -2,7 +2,7 @@
 
 <img alt="banner" src="https://i.ibb.co/09qPK1y/bg.png"/>
 
-# 👨‍💼 [Md. Alamin Sujon]
+# 👨‍💼 Md. Alamin Sujon
 
 <h2>About Me</h2>
 <p>Hi there! 👋 I'm a dedicated MERN Stack developer with a strong passion for crafting seamless and engaging web experiences. My journey in web development began with the fundamentals of HTML, CSS, and JavaScript, and I have since expanded my expertise to include advanced technologies and frameworks such as React, Next.js, Node.js, and Express.js. I thrive on turning complex problems into elegant, user-friendly solutions. <br/> <br/>
